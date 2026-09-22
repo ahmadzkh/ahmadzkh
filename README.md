@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Ahmad Zaky Humami
+# Hi, I'm Ahmad Zaky Humami
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=700&color=70A5FD&center=true&vCenter=true&width=760&lines=Fullstack+Web+Developer;Machine+Learning+Engineer;Informatics+Student;Data-Driven+Product+Builder" alt="Typing SVG" />
 
